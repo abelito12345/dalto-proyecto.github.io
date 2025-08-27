@@ -2,14 +2,14 @@
 font-family:courier;
 margin:0;
 width:auto;
-height:auto;
+height:250px;
 margin-top:20px;
 text-align:center;
 padding:20px;
 box-shadow:3px 3px 40px 3px black;
 border-radius:10px;
 display: inline-block;
-margin:30%;
+margin:3%;
 }
 
 .img-dalto {
